@@ -18,11 +18,11 @@ API_HASH = "4ea89573b2ffa4b66154c7cf8c6fdd48"
 # -------------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------------
-OWNER_ID = getenv("OWNER_ID", 7009601543)
+OWNER_ID = getenv("OWNER_ID", 7491834397)
 # -------------------------------------------------------------
-MONGO_DB_URI = "mongodb+srv://BADMUNDA:BADMYDAD@badhacker.i5nw9na.mongodb.net/"
+MONGO_DB_URI = "mongodb+srv://Userbot:shiv@cluster0.m5z1q.mongodb.net/?retryWrites=true&w=majority"
 # -------------------------------------------------------------
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/PBX_CHAT")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/X_NETWORK_BOTS_I")
 # -------------------------------------------------------------
-MUST_JOIN = getenv("MUST_JOIN","PBX_CHAT")
+MUST_JOIN = getenv("MUST_JOIN","https://files.catbox.moe/s38i5o.mp4")
 # -------------------------------------------------------------
